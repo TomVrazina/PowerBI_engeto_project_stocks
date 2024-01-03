@@ -1,4 +1,5 @@
 # PowerBi_project_engeto_202(3-4)
+
 * This project is focused onto evaluation of stock prices of selected companies and index. 
 * Moreover, This project also encompasses the correlation of stock prices to a GDP of EU countries.
 
