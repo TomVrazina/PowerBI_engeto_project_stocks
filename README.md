@@ -28,7 +28,7 @@ Main tasks in a project were generating Visualization of selected dataset
   
 #### Second page: Stock prices of companies and indexes in small time horizont - Last (Previous) Year
 * Three types of slicers
-* Candlesticks chart from stacked graph (I dont have full versionú)
+* Candlesticks chart from stacked graph (I dont have full version of powerBi)
 * Cards
 * Bookmarks
 * Page Navigation
